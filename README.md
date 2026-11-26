@@ -1,6 +1,6 @@
 # Pig Game
 
-A simple two-player dice game built with vanilla JavaScript.
+This project is a JavaScript course project: a simple two-player dice game built with vanilla JavaScript.
 
 ## How it works
 
